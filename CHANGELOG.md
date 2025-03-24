@@ -1,0 +1,48 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="unreleased">
+
+## Unreleased (2025-03-24)
+
+<section class="features">
+
+### Features
+
+-   [`dea222d`](https://github.com/stdlib-js/stdlib/commit/dea222dcbed60261c4748cf6cdaff1dd29332b64) - add `stats/strided/dnanmax`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`dea222d`](https://github.com/stdlib-js/stdlib/commit/dea222dcbed60261c4748cf6cdaff1dd29332b64) - **feat:** add `stats/strided/dnanmax` _(by Aayush Khanna)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Aayush Khanna
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
